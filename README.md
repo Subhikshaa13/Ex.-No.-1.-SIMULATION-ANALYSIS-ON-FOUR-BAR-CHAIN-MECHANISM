@@ -55,8 +55,11 @@
 ## Output:
 
 
-### Name:
-### Register Number: 
+### Name:Subhikshaa M
+### Register Number: 212222230151
+
+![image](https://github.com/Subhikshaa13/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/118787344/4c1f103a-e604-4c0e-998f-cb2e0fb4f478)
+
 
 
 
